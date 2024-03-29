@@ -23,7 +23,7 @@ export const routes = [
   },
   {
     name: "Docs",
-    href: "https://www.material-tailwind.com/docs/react/installation",
+    href: "#",
     target: "_blank",
     element: "",
   },
